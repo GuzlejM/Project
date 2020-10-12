@@ -20,7 +20,7 @@ Requirements
 High level features 
 
 Admin profile
-  CMS with that
+  CMS
 
 Users profiles
   Authentications
