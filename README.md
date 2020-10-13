@@ -1,17 +1,12 @@
 Testing collaboration.
 
-Ella Thomas - Project
+Ella Thomas - Salvaged.
 
 Overview
 _________________________________________________________________________
 
-During lockdown she was selling secondhand ware.
+During lockdown she was selling secondhand homeware and aswell new homewares from manifacture seller. "some STYLISH ECO friendly stuff"
 
-BRAND: SALVAGE.
-
-New homewares manifactures seller, some stylish stuff ECO friendly.
-
-It's like E-bay, depot. Recycle
 
 --------------------------------------------------------------------------
 
@@ -20,7 +15,7 @@ Requirements
 High level features 
 
 Admin profile
-  CMS
+  CMS - Content management
 
 Users profiles
   Authentications
@@ -39,20 +34,22 @@ Products profiles
     Filtering
   Prices
 
+__________________________________________________________________________
+
+Currency system with all automated discounts will be discussed later on
+
 CREDITS - Only obtainable if the product is sold.
 DISCOUNTS - Will see how that's going to work.
-
-Documentation from Client linking to Google - Drive
 __________________________________________________________________________
 
 AUDIT'S TRAIL
 
 //NOTES-------------------------------------------------------------------
 
+Documentation from Ella linking to Google - Drive
+Ella should make group on whatsapp
 
 -------------------------------- TO DO -----------------------------------
-
-Whatsapp group with D and Ella
 
 NOTION account
     CREATE account on NOTION, workflow boards, tables.
